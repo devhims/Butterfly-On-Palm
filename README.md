@@ -2,5 +2,5 @@
 Continuous palm tracking for placing the animated butterfly model. Built using Manomotion SDK for Unity.
 
 ##
-<img src="Images/butterfly.gif" width="750">
+<img src="Images/butterfly.gif" width="250">
 
